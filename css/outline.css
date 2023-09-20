@@ -1,0 +1,12 @@
+.outDive {
+    background-color: red;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    outline: 20px dotted greenyellow;
+
+}
+
+.outDive:hover {
+    outline-color: black;
+}
