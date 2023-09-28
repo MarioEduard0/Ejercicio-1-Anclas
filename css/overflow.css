@@ -1,0 +1,13 @@
+.div2 {
+    width: 346px;
+    height: 120px;
+    overflow: hidden;
+    background-color: greenyellow;
+}
+
+.div3 {
+    width: 346px;
+    height: 120px;
+    overflow: scroll;
+    background-color: red;
+}

@@ -10,3 +10,7 @@
 .outDive:hover {
     outline-color: black;
 }
+
+.outDive:click{
+    outline-offset: -13px;
+}

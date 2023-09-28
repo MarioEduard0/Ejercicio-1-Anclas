@@ -1,0 +1,158 @@
+body {
+    background-color: rgb(98, 233, 98);
+    width: 100%;
+    margin: 0px;
+    margin-top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.diana {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.diana1,
+.diana3,
+.diana5,
+.diana7,
+.diana81,
+.diana83 {
+
+    background-color: red;
+    color: red;
+}
+
+.diana2,
+.diana4,
+.diana6,
+.diana8,
+.diana82 {
+    background-color: white;
+    color: white;
+}
+
+div {
+    display: flex;
+    position: absolute;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.diana01 {
+    border-radius: 50%;
+    background-color: black;
+    width: 585px;
+    height: 585px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.diana02 {
+    border-radius: 50%;
+    background-color: antiquewhite;
+    width: 580px;
+    height: 580px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.diana03 {
+    border-radius: 50%;
+    background-color: black;
+    width: 555px;
+    height: 555px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.diana1 {
+    height: 550px;
+    width: 550px;
+}
+
+.diana2 {
+    height: 500px;
+    width: 500px;
+}
+
+.diana3 {
+    height: 450px;
+    width: 450px;
+}
+
+.diana4 {
+    height: 400px;
+    width: 400px;
+}
+
+.diana5 {
+    height: 350px;
+    width: 350px;
+}
+
+.diana6 {
+    height: 300px;
+    width: 300px;
+}
+
+.diana7 {
+    height: 250px;
+    width: 250px;
+}
+
+.diana8 {
+
+    height: 200px;
+    width: 200px;
+}
+
+.diana81 {
+
+    height: 150px;
+    width: 150px;
+}
+
+.diana82 {
+
+    height: 100px;
+    width: 100px;
+}
+
+.diana83 {
+    height: 50px;
+    width: 50px;
+}
+
+.diana9 {
+    border-radius: 0%;
+    background-color: black;
+    width: 550px;
+    height: 4px;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
+
+.diana10 {
+    border-radius: 0%;
+    background-color: black;
+    width: 4px;
+    height: 550px;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    -ms-border-radius: 0%;
+    -o-border-radius: 0%;
+}
